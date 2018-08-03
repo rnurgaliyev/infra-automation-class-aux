@@ -1,0 +1,19 @@
+# Open Stack Environment Variables
+
+OS_AUTH_URL=https://keystone.cloud.syseleven.net:5000/v3
+OS_IDENTITY_API_VERSION=3
+OS_PROJECT_ID=26cfbd9d4ee64d8faecd287bb39d3870
+OS_USER_DOMAIN_NAME=Default
+OS_INTERFACE=public
+OS_ENDPOINT_TYPE=public
+OS_USERNAME=r.nurgaliyev@syseleven.de
+OS_PASSWORD=
+OS_REGION_NAME=cbk
+OS_PROJECT_NAME=syseleveneigenbedarf-syseleven-employee-rnurgaliyev
+
+# Google Cloud Credentials
+
+GOOGLE_CLOUD_KEYFILE_JSON=/Users/rnurgaliyev/rnurgaliyev-210507-2d8aadd37519.json
+GOOGLE_CLOUD_SERVICE_ACCOUNT=dns-administrator@rnurgaliyev-210507.iam.gserviceaccount.com
+GOOGLE_CLOUD_PROJECT=rnurgaliyev-210507
+
