@@ -1,5 +1,6 @@
 data "openstack_networking_network_v2" "ext_net" {
   name = "ext-net"
+  external = true
 }
 
 resource "openstack_compute_secgroup_v2" "live_access" {
